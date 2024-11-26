@@ -1,4 +1,5 @@
 👋 Hi, I'm Dost Muhammad Khan
+
 🚀 About Me
 🎓 3rd Year Software Engineering Student (6th Semester)
 💻 Aspiring Front-End Developer with a passion for creating interactive user experiences.
@@ -18,8 +19,8 @@ Tools: Git, GitHub, VS Code
 🌌 Gemini Clone: A creative project replicating the Gemini platform.
 
 📫 How to Reach Me
-📧 Email: [your-email@example.com]
-💼 LinkedIn: Your LinkedIn Profile
+📧 Email: [dostikhan41@gmail.com]
+💼 LinkedIn: https://www.linkedin.com/in/dostmuhammad10/
 🧑‍💻 GitHub: Dosti13
 
 🎯 Goals
