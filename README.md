@@ -2,7 +2,7 @@
 
 🚀 About Me
 
-🎓 3rd Year Software Engineering Student (6th Semester)
+🎓 4th Year Software Engineering Student (6th Semester)
 💻 Aspiring Front-End Developer with a passion for creating interactive user experiences.
 🔍 Actively seeking internship opportunities to gain hands-on experience in front-end development.
 🎨 Skilled in crafting animated and dynamic websites with clean, responsive designs.
